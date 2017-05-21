@@ -1,0 +1,51 @@
+#headpane{
+    height:40px;
+    padding:10px;
+    background-color: #3B5998;
+}
+#headpane h1{
+    text-align:center;
+    font-weight: bold;
+    color:white;
+    
+}
+#heading{
+    height:500px;
+    width:100%;
+    
+}
+#bodycp{
+    height:400px;
+    width:800px;
+    padding:20px;
+    margin-left:200px;
+    background-color:#FF7575;
+    border-radius: 5px;
+    
+}
+#bodycp h2{
+    color:black;
+    font-weight: bold;
+    
+}
+
+/* CSS */
+    .relative{
+        position:relative; width:600px;
+    }
+    .absolute-text{
+        position:absolute; 
+        bottom:350px;
+        left:350px;
+        font-size:24px; 
+        font-family:"vedana"; 
+        background:rgba(251,251,251,1.5);
+        padding:10px 20px; 
+        width:100%; 
+        text-align:center;
+        border-radius:5px;
+    }
+    .absolute-text a{
+        font-size:16px; 
+        color:black;
+    }

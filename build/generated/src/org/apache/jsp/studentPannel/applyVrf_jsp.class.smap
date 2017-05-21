@@ -1,0 +1,10 @@
+SMAP
+applyVrf_jsp.java
+JSP
+*S JSP
+*F
++ 0 applyVrf.jsp
+studentPannel/applyVrf.jsp
+*L
+5,41:44
+*E

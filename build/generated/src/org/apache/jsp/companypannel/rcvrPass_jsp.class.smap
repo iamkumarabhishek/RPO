@@ -1,0 +1,16 @@
+SMAP
+rcvrPass_jsp.java
+JSP
+*S JSP
+*F
++ 0 rcvrPass.jsp
+companypannel/rcvrPass.jsp
+*L
+5,12:45
+17,21:58
+37,6:79
+44,3:87
+46,6:90
+52,2:97
+53,4:99
+*E
